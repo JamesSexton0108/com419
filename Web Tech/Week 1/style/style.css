@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    background-color: blueviolet;
+    font-size: large;
+}
+
+h2 {
+    color: rgb(151, 16, 90);
+}
+
+li strong {
+    font-size: xx-large;
+}
